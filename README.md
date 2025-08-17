@@ -36,7 +36,7 @@ elyx-health/
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/nitingargiitr/elyx_hackathon
    cd elyx-health
    ```
 
