@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+pandas
+plotly
+pyvis
+python-dateutil
+python-dotenv
+google-generativeai
+streamlit-timeline

@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "2025-08-01 09:00:00",
+    "sender": "Ruby",
+    "text": "Rohan, welcome to Month 5. We are introducing endurance work now. Starting with two 25-minute sessions of zone-2 cardio per week, while maintaining your three strength sessions."
+  },
+  {
+    "timestamp": "2025-08-01 09:20:00",
+    "sender": "Rohan",
+    "text": "Got it. How should I measure zone-2 intensity? Recovery 65% this morning."
+  },
+  {
+    "timestamp": "2025-08-01 09:40:00",
+    "sender": "Rachel",
+    "text": "Use your Garmin to keep heart rate between 120-130 bpm. You should still be able to talk, but not sing. That's the sweet spot."
+  },
+  {
+    "timestamp": "2025-08-03 07:20:00",
+    "sender": "Rohan",
+    "text": "Did my first cardio session this morning. HR was around 126 on average. Recovery 62%."
+  },
+  {
+    "timestamp": "2025-08-03 07:45:00",
+    "sender": "Neel",
+    "text": "Perfect. That's exactly where we want you. Over time this will improve your cardiovascular efficiency and support lipid management."
+  },
+  {
+    "timestamp": "2025-08-08 07:50:00",
+    "sender": "Rohan",
+    "text": "BP this week is averaging 122/78. HRV 60ms. Feeling less sore after strength sessions. Recovery 64%."
+  },
+  {
+    "timestamp": "2025-08-08 08:15:00",
+    "sender": "Dr. Warren",
+    "text": "That's excellent. It shows your system is adapting to the combined load. Keep logging sleep daily – endurance can sometimes impact recovery at first."
+  },
+  {
+    "timestamp": "2025-08-09 09:30:00",
+    "sender": "Rohan",
+    "text": "Sleep was only 5.5 hours last night due to late work. HRV dropped to 52ms. Recovery 51%."
+  },
+  {
+    "timestamp": "2025-08-09 09:50:00",
+    "sender": "Neel",
+    "text": "That's a noticeable dip. Take today as active recovery – light walk and stretching. Skip cardio until HRV is back above 55ms."
+  },
+  {
+    "timestamp": "2025-08-15 08:00:00",
+    "sender": "Ruby",
+    "text": "Rohan, we've scheduled a follow-up blood panel for August 18. This will help us see how endurance training is influencing lipids and ApoB."
+  },
+  {
+    "timestamp": "2025-08-15 08:20:00",
+    "sender": "Rohan",
+    "text": "Okay. Same fasting as before, right? Recovery 66% today."
+  },
+  {
+    "timestamp": "2025-08-15 08:40:00",
+    "sender": "Ruby",
+    "text": "Yes, 12 hours fasting. Water is fine. We'll review results the same day."
+  },
+  {
+    "timestamp": "2025-08-18 11:30:00",
+    "sender": "Dr. Warren",
+    "text": "Your August panel shows ApoB has dropped further since June. Lipid ratios are trending positive, hs-CRP is steady."
+  },
+  {
+    "timestamp": "2025-08-18 11:50:00",
+    "sender": "Rohan",
+    "text": "That's motivating. I was worried the extra training might increase inflammation. Recovery 68% this morning."
+  },
+  {
+    "timestamp": "2025-08-18 12:10:00",
+    "sender": "Dr. Warren",
+    "text": "Good concern. But with your recovery practices, inflammation is stable. We'll keep monitoring hs-CRP each quarter."
+  },
+  {
+    "timestamp": "2025-08-18 12:20:00",
+    "sender": "Carla",
+    "text": "From a nutrition angle, increase oily fish to twice weekly. This will reinforce the lipid improvements."
+  },
+  {
+    "timestamp": "2025-08-23 08:10:00",
+    "sender": "Rohan",
+    "text": "Completed two cardio sessions and three strength this week. HRV averaging 59-61ms, BP steady at 124/79. Recovery 66%."
+  },
+  {
+    "timestamp": "2025-08-23 08:35:00",
+    "sender": "Neel",
+    "text": "That's a balanced adaptation. Endurance hasn't disrupted recovery – excellent sign. Keep this routine steady for the rest of the month."
+  },
+  {
+    "timestamp": "2025-08-28 09:00:00",
+    "sender": "Ruby",
+    "text": "Month 5 summary: ApoB improved, recovery stable, endurance successfully added. In September, we'll increase endurance frequency slightly and add periodic intervals."
+  },
+  {
+    "timestamp": "2025-08-28 09:20:00",
+    "sender": "Rohan",
+    "text": "Understood. I feel more energetic overall. Looking forward to progressing endurance next month. Recovery 67%."
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2025-07-01 09:00:00",
+    "sender": "Ruby",
+    "text": "Rohan, welcome to Month 4. Plan v1.2 starts today: 3 strength sessions weekly, 1 mobility session, and refined nutrition with lighter evening meals."
+  },
+  {
+    "timestamp": "2025-07-01 09:20:00",
+    "sender": "Rohan",
+    "text": "Three strength sessions sounds like a step up. How long should each be?"
+  },
+  {
+    "timestamp": "2025-07-01 09:40:00",
+    "sender": "Rachel",
+    "text": "Each session will be around 25 minutes. Moderate load — bodyweight plus resistance bands. We'll progress gradually."
+  },
+  {
+    "timestamp": "2025-07-03 07:30:00",
+    "sender": "Rohan",
+    "text": "Completed two strength sessions this week. Felt tougher but manageable."
+  },
+  {
+    "timestamp": "2025-07-03 07:55:00",
+    "sender": "Rachel",
+    "text": "Perfect. That's the adaptation we want. Just keep recovery routines consistent."
+  },
+  {
+    "timestamp": "2025-07-08 08:00:00",
+    "sender": "Rohan",
+    "text": "Feeling a bit more tired this week. Waking HRV dropped to 52ms."
+  },
+  {
+    "timestamp": "2025-07-08 08:30:00",
+    "sender": "Neel",
+    "text": "Noted. That can happen when load increases. Let's add an extra rest day if needed and push mobility instead of full strength."
+  },
+  {
+    "timestamp": "2025-07-09 07:30:00",
+    "sender": "Rohan",
+    "text": "Took a rest yesterday, HRV bounced back to 56ms today."
+  },
+  {
+    "timestamp": "2025-07-09 07:55:00",
+    "sender": "Neel",
+    "text": "That's a good response. Keep alternating load and rest to maintain balance."
+  },
+  {
+    "timestamp": "2025-07-15 22:00:00",
+    "sender": "Rohan",
+    "text": "Work deadlines this week. Sleep is down to 5 hours on some nights."
+  },
+  {
+    "timestamp": "2025-07-15 22:25:00",
+    "sender": "Dr. Warren",
+    "text": "Thanks for flagging. Keep BP and HRV logs daily this week. If HRV dips below 50 consistently, we'll scale back intensity."
+  },
+  {
+    "timestamp": "2025-07-16 07:30:00",
+    "sender": "Rohan",
+    "text": "HRV this morning was 49ms. Recovery 42%."
+  },
+  {
+    "timestamp": "2025-07-16 07:55:00",
+    "sender": "Neel",
+    "text": "That's lower than we want. Skip strength today. Do a 20-minute walk and breathing instead."
+  },
+  {
+    "timestamp": "2025-07-17 07:45:00",
+    "sender": "Rohan",
+    "text": "Slept 7 hours last night. HRV back up to 55ms this morning."
+  },
+  {
+    "timestamp": "2025-07-17 08:05:00",
+    "sender": "Neel",
+    "text": "Perfect — shows you're responsive. Let's hold this balance for the rest of the week."
+  },
+  {
+    "timestamp": "2025-07-23 07:40:00",
+    "sender": "Rohan",
+    "text": "BP readings this week have averaged 124/78. HRV is consistently 56-59ms."
+  },
+  {
+    "timestamp": "2025-07-23 08:05:00",
+    "sender": "Dr. Warren",
+    "text": "That's stable and right where we want it. Good work staying consistent despite workload stress."
+  },
+  {
+    "timestamp": "2025-07-28 09:00:00",
+    "sender": "Ruby",
+    "text": "Month 4 summary: you've adapted to Plan v1.2, strength consistency is good, recovery has held steady. Next month we'll keep the structure but integrate more endurance activity."
+  },
+  {
+    "timestamp": "2025-07-28 09:20:00",
+    "sender": "Rohan",
+    "text": "Thanks. I feel stronger overall. Ready to add endurance next month."
+  }
+]

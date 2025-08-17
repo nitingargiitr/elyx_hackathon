@@ -1,0 +1,177 @@
+[
+  {
+    "timestamp": "2025-05-02 09:00:00",
+    "sender": "Ruby",
+    "text": "Rohan, welcome to Month 2. Today we're starting Plan v1.0. Focus areas are: structured diet, sleep hygiene, 2x light strength sessions weekly, and daily 5-minute breathing."
+  },
+  {
+    "timestamp": "2025-05-02 09:20:00",
+    "sender": "Rohan",
+    "text": "Got it. Can you share the details for workouts? I've not been consistent with strength training before."
+  },
+  {
+    "timestamp": "2025-05-02 09:45:00",
+    "sender": "Rachel",
+    "text": "We'll start simple: two 20-minute bodyweight sessions per week. Squats, push-ups, planks. I'll send you a short demo video for form."
+  },
+  {
+    "timestamp": "2025-05-02 10:10:00",
+    "sender": "Rohan",
+    "text": "Sounds manageable. Will try the first one tomorrow morning."
+  },
+  {
+    "timestamp": "2025-05-04 08:00:00",
+    "sender": "Rohan",
+    "text": "Did my first strength session today. Felt a bit stiff but okay. Recovery score: 72%, RHR: 58 bpm"
+  },
+  {
+    "timestamp": "2025-05-04 08:30:00",
+    "sender": "Rachel",
+    "text": "Good start. Expect some soreness the first week. Keep stretching after the session. Your recovery score looks healthy for post-workout."
+  },
+  {
+    "timestamp": "2025-05-06 07:15:00",
+    "sender": "Rohan",
+    "text": "Morning metrics: Recovery 68%, HRV 64ms, RHR 56 bpm. Sleep was 6.5 hours."
+  },
+  {
+    "timestamp": "2025-05-06 07:40:00",
+    "sender": "Neel",
+    "text": "Solid numbers. Your HRV is in good range. Try to maintain that sleep duration consistently."
+  },
+  {
+    "timestamp": "2025-05-08 22:00:00",
+    "sender": "Rohan",
+    "text": "I've been sleeping only 5.5 hours this week. Work has been late. Recovery feels low - showing 45% today, RHR up to 64 bpm."
+  },
+  {
+    "timestamp": "2025-05-08 22:20:00",
+    "sender": "Neel",
+    "text": "Thanks for flagging. Even if you can't extend total sleep, aim to keep a fixed bedtime. Consistency matters for recovery. That elevated RHR confirms you need more rest."
+  },
+  {
+    "timestamp": "2025-05-09 07:30:00",
+    "sender": "Rohan",
+    "text": "Morning HRV is 46ms today. Usually it's in the 60s. Recovery score: 42%, RHR: 66 bpm. Feeling pretty fatigued."
+  },
+  {
+    "timestamp": "2025-05-09 08:00:00",
+    "sender": "Dr. Warren",
+    "text": "Noted. This may be due to reduced sleep. No intervention yet – keep logging HRV daily for us. Skip today's workout and prioritize rest."
+  },
+  {
+    "timestamp": "2025-05-10 15:00:00",
+    "sender": "Rohan",
+    "text": "I've been snacking on biscuits again. Hard to avoid during office tea breaks. Recovery improved to 58% this morning though."
+  },
+  {
+    "timestamp": "2025-05-10 15:30:00",
+    "sender": "Carla",
+    "text": "Swap biscuits with nuts or fruit if possible. We'll gradually reduce refined carbs – no need to cut everything at once. Good to see recovery trending up."
+  },
+  {
+    "timestamp": "2025-05-12 08:20:00",
+    "sender": "Rohan",
+    "text": "Better sleep last night - 7 hours. Recovery: 74%, HRV: 61ms, RHR: 57 bpm. Feeling more energized."
+  },
+  {
+    "timestamp": "2025-05-12 08:45:00",
+    "sender": "Rachel",
+    "text": "Excellent bounce back! This shows how quickly your body responds to adequate sleep. Perfect day for your second weekly strength session."
+  },
+  {
+    "timestamp": "2025-05-14 08:10:00",
+    "sender": "Rohan",
+    "text": "Traveling for work from May 16-19. How do I keep the plan going? Current metrics: Recovery 69%, HRV 63ms."
+  },
+  {
+    "timestamp": "2025-05-14 08:40:00",
+    "sender": "Ruby",
+    "text": "We'll adapt. Focus on mobility in hotel rooms, 15-minute walks after meals, and mindful eating. We'll skip structured strength training that week. Your current recovery levels look good for travel."
+  },
+  {
+    "timestamp": "2025-05-16 21:00:00",
+    "sender": "Rohan",
+    "text": "First day of travel done. Food options were mostly fried and carb-heavy. Recovery dropped to 51%, feeling the travel stress."
+  },
+  {
+    "timestamp": "2025-05-16 21:25:00",
+    "sender": "Carla",
+    "text": "When eating out, choose lighter options like soups or grilled items if available. Hydration is also important when traveling. That recovery drop is normal for travel day 1."
+  },
+  {
+    "timestamp": "2025-05-17 08:15:00",
+    "sender": "Rohan",
+    "text": "Sleep was poor last night. Only 4.5 hours. Recovery is at 28%, HRV dropped to 41ms, RHR spiked to 69 bpm."
+  },
+  {
+    "timestamp": "2025-05-17 08:40:00",
+    "sender": "Neel",
+    "text": "Try to fit in 10 minutes of deep breathing before bed tonight. Even if sleep duration is low, quality can improve with wind-down routines. Those metrics show significant stress load."
+  },
+  {
+    "timestamp": "2025-05-18 09:30:00",
+    "sender": "Rohan",
+    "text": "Breathing exercises helped a bit. Recovery: 38%, HRV: 44ms, RHR: 65 bpm. Still low but trending better."
+  },
+  {
+    "timestamp": "2025-05-18 10:00:00",
+    "sender": "Dr. Warren",
+    "text": "Good to see some improvement. Keep prioritizing those breathing sessions. Your body is adapting to the travel stress."
+  },
+  {
+    "timestamp": "2025-05-20 08:45:00",
+    "sender": "Rohan",
+    "text": "Back home! First night in my own bed: 6.5 hours sleep. Recovery: 62%, HRV: 58ms, RHR: 60 bpm. Much better."
+  },
+  {
+    "timestamp": "2025-05-20 09:15:00",
+    "sender": "Ruby",
+    "text": "Welcome back! Your recovery metrics show how much your familiar environment helps. Let's ease back into the routine today."
+  },
+  {
+    "timestamp": "2025-05-22 07:30:00",
+    "sender": "Rohan",
+    "text": "My BP reading this morning was 138/86. Slightly higher than usual. Recovery: 65%, HRV: 59ms, RHR: 58 bpm."
+  },
+  {
+    "timestamp": "2025-05-22 07:55:00",
+    "sender": "Dr. Warren",
+    "text": "Thanks for sharing. This could be from recent travel stress. Keep monitoring daily this week, and we'll review. Your other recovery metrics look stable."
+  },
+  {
+    "timestamp": "2025-05-24 09:00:00",
+    "sender": "Rohan",
+    "text": "HRV this morning was 52ms. Better than last week but still lower than baseline. Recovery: 68%, RHR: 57 bpm, BP: 134/82."
+  },
+  {
+    "timestamp": "2025-05-24 09:30:00",
+    "sender": "Rachel",
+    "text": "That's progress. Consistency is key. Let's introduce an extra recovery session this week – light stretching before bed. BP is improving too."
+  },
+  {
+    "timestamp": "2025-05-26 08:10:00",
+    "sender": "Rohan",
+    "text": "Great sleep last night - 7.5 hours! Recovery: 78%, HRV: 65ms, RHR: 55 bpm, BP: 128/79. Feeling fantastic."
+  },
+  {
+    "timestamp": "2025-05-26 08:35:00",
+    "sender": "Neel",
+    "text": "Outstanding numbers across the board! This is what we want to see. Your body is responding well to the consistent routine."
+  },
+  {
+    "timestamp": "2025-05-28 11:00:00",
+    "sender": "Ruby",
+    "text": "We've reviewed your first 4 weeks on Plan v1.0. Based on your travel disruptions and recovery data, we'll update to Plan v1.1 for June. Focus will be on consistency, BP monitoring, and maintaining HRV above 55ms and recovery scores above 65%."
+  },
+  {
+    "timestamp": "2025-05-28 11:20:00",
+    "sender": "Rohan",
+    "text": "Makes sense. I feel I'm slowly adapting. Looking forward to Plan v1.1. Today's metrics: Recovery 76%, HRV 63ms, RHR 56 bpm - feels like good progress!"
+  },
+  {
+    "timestamp": "2025-05-28 11:45:00",
+    "sender": "Dr. Warren",
+    "text": "Excellent end-of-month summary, Rohan. Your recovery data clearly shows the impact of sleep consistency and stress management. Keep up the great work."
+  }
+]

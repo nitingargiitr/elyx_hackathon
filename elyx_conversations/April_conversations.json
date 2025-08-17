@@ -1,0 +1,127 @@
+[
+  {
+    "timestamp": "2025-04-02 09:00:00",
+    "sender": "Ruby",
+    "text": "Good morning Rohan. Welcome to Elyx. We'll start with onboarding this week. Could you share your key health priorities and current routine?"
+  },
+  {
+    "timestamp": "2025-04-02 09:20:00",
+    "sender": "Rohan",
+    "text": "Thanks Ruby. My main priorities are reducing cardiovascular risk, keeping cholesterol and BP under control, and improving focus at work. I currently exercise about 3 days a week and follow a mostly vegetarian diet."
+  },
+  {
+    "timestamp": "2025-04-02 09:50:00",
+    "sender": "Ruby",
+    "text": "Got it. We'll tailor your program accordingly. Do you have any ongoing medical conditions or medications we should know about?"
+  },
+  {
+    "timestamp": "2025-04-02 10:15:00",
+    "sender": "Rohan",
+    "text": "I have borderline high BP but I'm not on medication. No other conditions. Family history of heart disease though."
+  },
+  {
+    "timestamp": "2025-04-02 10:45:00",
+    "sender": "Dr. Warren",
+    "text": "Thanks Rohan, that context is important. We'll run a baseline cardiovascular risk screen, including ApoB, Lp(a), hs-CRP, OGTT, and a lipid panel. This helps us set benchmarks."
+  },
+  {
+    "timestamp": "2025-04-03 08:30:00",
+    "sender": "Ruby",
+    "text": "We've scheduled your blood tests and diagnostic scans for April 5 at 09:00. Please fast for 12 hours beforehand."
+  },
+  {
+    "timestamp": "2025-04-03 09:00:00",
+    "sender": "Rohan",
+    "text": "Understood. Should I avoid coffee that morning?"
+  },
+  {
+    "timestamp": "2025-04-03 09:20:00",
+    "sender": "Ruby",
+    "text": "Yes, avoid coffee and tea. Water is fine."
+  },
+  {
+    "timestamp": "2025-04-05 07:30:00",
+    "sender": "Rohan",
+    "text": "Heading for the blood panel now. Recovery this morning was 38%."
+  },
+  {
+    "timestamp": "2025-04-05 07:50:00",
+    "sender": "Ruby",
+    "text": "Great. After the lab visit, our team physician will also do a quick physical exam. Results will be available in 48 hours."
+  },
+  {
+    "timestamp": "2025-04-07 10:00:00",
+    "sender": "Dr. Warren",
+    "text": "Rohan, your baseline blood panel is back. ApoB and Lp(a) are mildly elevated, BP is borderline, and hs-CRP is within range. We'll keep a close watch. No urgent concerns."
+  },
+  {
+    "timestamp": "2025-04-07 10:30:00",
+    "sender": "Rohan",
+    "text": "Thanks for the update. What does this mean for my plan?"
+  },
+  {
+    "timestamp": "2025-04-07 11:00:00",
+    "sender": "Dr. Warren",
+    "text": "It means we'll emphasize lipid management and BP control early on. We'll combine dietary adjustments with lifestyle support. Nothing drastic yet."
+  },
+  {
+    "timestamp": "2025-04-09 08:15:00",
+    "sender": "Carla",
+    "text": "Can you share what your typical daily meals look like? That will help us refine the nutrition plan."
+  },
+  {
+    "timestamp": "2025-04-09 08:40:00",
+    "sender": "Rohan",
+    "text": "Breakfast is usually oats or toast, lunch is Indian vegetarian food with rice and dal, dinner is lighter like soup or salad. I do snack on biscuits in the evenings. Recovery was 42% this morning."
+  },
+  {
+    "timestamp": "2025-04-09 09:15:00",
+    "sender": "Carla",
+    "text": "Thanks. We'll suggest swaps for snacks and add protein sources. We'll also align with the cardiometabolic risk profile."
+  },
+  {
+    "timestamp": "2025-04-12 09:00:00",
+    "sender": "Rachel",
+    "text": "How many hours of sleep are you averaging per night?"
+  },
+  {
+    "timestamp": "2025-04-12 09:20:00",
+    "sender": "Rohan",
+    "text": "Around 6 hours on weekdays, a bit more on weekends. Recovery 45%."
+  },
+  {
+    "timestamp": "2025-04-12 09:45:00",
+    "sender": "Rachel",
+    "text": "We'll aim for 7-7.5 hours as a target. Sleep is critical for recovery and BP regulation. We'll build sleep hygiene practices into your plan."
+  },
+  {
+    "timestamp": "2025-04-15 10:00:00",
+    "sender": "Neel",
+    "text": "Let's talk about stress management. Do you currently do meditation or breathing exercises?"
+  },
+  {
+    "timestamp": "2025-04-15 10:20:00",
+    "sender": "Rohan",
+    "text": "Not regularly. I've tried meditation apps but I don't stick with them. Recovery this morning was 39%."
+  },
+  {
+    "timestamp": "2025-04-15 10:45:00",
+    "sender": "Neel",
+    "text": "We'll start with 5-minute daily guided breathing. This is manageable and builds consistency."
+  },
+  {
+    "timestamp": "2025-04-18 11:00:00",
+    "sender": "Ruby",
+    "text": "We've compiled all baseline data. Your starter plan (v1.0) will focus on diet clean-up, sleep hygiene, stress baseline, and light strength workouts. We'll launch it in May."
+  },
+  {
+    "timestamp": "2025-04-18 11:20:00",
+    "sender": "Rohan",
+    "text": "Sounds good. Looking forward to starting. Recovery 47% today."
+  },
+  {
+    "timestamp": "2025-04-18 11:45:00",
+    "sender": "Ruby",
+    "text": "Great. This month was about building your health profile. May will be about applying the first plan."
+  }
+]

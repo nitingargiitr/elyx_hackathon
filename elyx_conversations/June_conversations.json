@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2025-06-02 09:00:00",
+    "sender": "Ruby",
+    "text": "Rohan, welcome to June. We are moving into Plan v1.1 today. Main focus: consistency, BP monitoring three times a week, and pushing HRV above 55ms."
+  },
+  {
+    "timestamp": "2025-06-02 09:25:00",
+    "sender": "Rohan",
+    "text": "Sounds good. Should I continue with the two weekly strength sessions from last month?"
+  },
+  {
+    "timestamp": "2025-06-02 09:50:00",
+    "sender": "Rachel",
+    "text": "Yes, keep them. We'll now add one optional mobility-focused session on weekends. Nothing heavy, just 15 minutes of movement to improve recovery."
+  },
+  {
+    "timestamp": "2025-06-04 07:30:00",
+    "sender": "Rohan",
+    "text": "BP today was 128/82. Better than last week's average."
+  },
+  {
+    "timestamp": "2025-06-04 07:55:00",
+    "sender": "Dr. Warren",
+    "text": "That's encouraging. Let's track this trend through the month. If you stay below 130 consistently, that's a positive sign."
+  },
+  {
+    "timestamp": "2025-06-10 08:00:00",
+    "sender": "Rohan",
+    "text": "HRV today was 58ms, recovery 62%. First time above 55 in weeks."
+  },
+  {
+    "timestamp": "2025-06-10 08:30:00",
+    "sender": "Neel",
+    "text": "Excellent. That shows the consistency is paying off. Keep the breathing sessions daily — they're working."
+  },
+  {
+    "timestamp": "2025-06-12 22:15:00",
+    "sender": "Rohan",
+    "text": "Had a late dinner and drinks with friends tonight. Sleep will probably be short."
+  },
+  {
+    "timestamp": "2025-06-12 22:40:00",
+    "sender": "Carla",
+    "text": "That's fine occasionally. Hydrate before bed, and tomorrow stick to lighter meals to balance it out."
+  },
+  {
+    "timestamp": "2025-06-15 09:00:00",
+    "sender": "Ruby",
+    "text": "Rohan, we've scheduled your mid-point blood panel for June 17. This will help us see early shifts in lipids and ApoB."
+  },
+  {
+    "timestamp": "2025-06-15 09:25:00",
+    "sender": "Rohan",
+    "text": "Okay. Same fasting requirement as last time?"
+  },
+  {
+    "timestamp": "2025-06-15 09:40:00",
+    "sender": "Ruby",
+    "text": "Yes, 12 hours fasting. Water is fine."
+  },
+  {
+    "timestamp": "2025-06-18 11:00:00",
+    "sender": "Dr. Warren",
+    "text": "Rohan, your June panel shows ApoB has come down slightly from April, lipids are trending in the right direction. hs-CRP remains stable."
+  },
+  {
+    "timestamp": "2025-06-18 11:25:00",
+    "sender": "Rohan",
+    "text": "That's good news. What should I focus on next?"
+  },
+  {
+    "timestamp": "2025-06-18 11:45:00",
+    "sender": "Carla",
+    "text": "We'll tighten up evening meals — lighter dinners with more protein, fewer carbs. This supports lipid management."
+  },
+  {
+    "timestamp": "2025-06-23 07:45:00",
+    "sender": "Rohan",
+    "text": "BP average this week was 126/80. HRV is hovering around 57-60ms. Feels steadier."
+  },
+  {
+    "timestamp": "2025-06-23 08:10:00",
+    "sender": "Dr. Warren",
+    "text": "Great progress. Consistency is showing results. Keep logging daily metrics."
+  },
+  {
+    "timestamp": "2025-06-26 09:00:00",
+    "sender": "Ruby",
+    "text": "As we close Month 3, we'll evolve to Plan v1.2 for July. Slightly more structured training and refined nutrition, since you're adapting well."
+  },
+  {
+    "timestamp": "2025-06-26 09:25:00",
+    "sender": "Rohan",
+    "text": "Understood. I feel more in rhythm now. Ready for the next step."
+  }
+]
